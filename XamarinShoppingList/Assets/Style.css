@@ -1,0 +1,23 @@
+﻿
+.kerättynappi {
+    padding: 10 25 10 25;
+    border-radius: 20;
+    margin-left: 12;
+    background-color: forestgreen;
+    color: white;
+    font-size: 18;
+}
+
+.listaohje {
+    color: black;
+    font-size: 18;
+    text-align: center;
+    margin-top: 8;
+    margin-left: 10;
+}
+
+.lista {
+    margin-left: 20;
+    font-size: 40;
+   
+}

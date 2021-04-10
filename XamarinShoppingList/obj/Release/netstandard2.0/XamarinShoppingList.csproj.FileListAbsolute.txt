@@ -1,0 +1,14 @@
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\bin\Release\netstandard2.0\XamarinShoppingList.deps.json
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\bin\Release\netstandard2.0\XamarinShoppingList.dll
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\bin\Release\netstandard2.0\ref\XamarinShoppingList.dll
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\bin\Release\netstandard2.0\XamarinShoppingList.pdb
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\Assets\Style.css.g.cs
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\XamarinShoppingList.AssemblyInfoInputs.cache
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\XamarinShoppingList.AssemblyInfo.cs
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\XamarinShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\XamarinShoppingList.dll
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\ref\XamarinShoppingList.dll
+C:\Users\siren\source\repos\XamarinShoppingList\XamarinShoppingList\obj\Release\netstandard2.0\XamarinShoppingList.pdb
